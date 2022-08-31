@@ -1,0 +1,24 @@
+{
+    "features": [
+        {
+            "title": "Lorem ipsum",
+            "tag": "database"
+        },
+        {
+            "title": "Dolor Sitema",
+            "tag": "iot"
+        },
+        {
+            "title": "Sed perspiciatis",
+            "tag": "tower"
+        },
+        {
+            "title": "Magni Dolores",
+            "tag": "router"
+        },
+        {
+            "title": "Flavor Nivelanda",
+            "tag": "writer"
+        }
+    ]
+}
