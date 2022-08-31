@@ -46,9 +46,9 @@ import { open } from "../modules/composable";
             <!-- About Us -->
             <section class="px-5 lg:px-10">
                 <div class="mb-8 flex items-center justify-center gap-x-5">
-                    <span class="w-16 h-[1px] bg-blue-800 inline-block"></span>
+                    <span class="w-12 h-[1px] bg-blue-800 inline-block"></span>
                     <h1 class="text-xl lg:text-2xl font-bold">ABOUT US</h1>
-                    <span class="w-16 h-[1px] bg-blue-800 inline-block"></span>
+                    <span class="w-12 h-[1px] bg-blue-800 inline-block"></span>
                 </div>
                 <div class="text-base lg:text-[1.1rem] lg:flex md:gap-2">
                     <div class="lg:basis-2/4">
@@ -318,9 +318,9 @@ import { open } from "../modules/composable";
             <!-- Contact Us -->
             <section class="mb-28 px-5">
                 <div class="flex items-center justify-center gap-x-5">
-                    <span class="w-16 h-[1px] bg-blue-800 inline-block"></span>
+                    <span class="w-10 h-[1px] bg-blue-800 inline-block"></span>
                     <h1 class="text-xl lg:text-2xl font-bold">CONTACT US</h1>
-                    <span class="w-16 h-[1px] bg-blue-800 inline-block"></span>
+                    <span class="w-10 h-[1px] bg-blue-800 inline-block"></span>
                 </div>
 
                 <div class="lg:flex justify-center gap-10 lg:mt-10">
